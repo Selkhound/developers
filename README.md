@@ -1,2 +1,2 @@
 # developers
-The website for www.selkhound.com/developer
+The website for developer.selkhound.com
